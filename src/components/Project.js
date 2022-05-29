@@ -57,6 +57,11 @@ function Work() {
                 </video>
             </div> 
             <div className='card'>
+                <video muted autoStart autoPlay loop>
+                <source autoStart autoPlay  type="video/mp4" src={rickVid}/>
+                </video>
+            </div>
+            <div className='card'>
             <video muted autoStart autoPlay loop>
                 <source autoStart autoPlay  type="video/mp4" src={colorVid}/>
                 </video>
