@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/port/static/css/main.073c9b0a.css",
-    "main.js": "/port/static/js/main.70b9b1cd.js",
-    "static/js/787.26095953.chunk.js": "/port/static/js/787.26095953.chunk.js",
-    "static/media/logo.svg": "/port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/port/static/css/main.ae3be833.css",
+    "main.js": "/port/static/js/main.613f15fc.js",
+    "static/media/AdobeStock_141505206.mov": "/port/static/media/AdobeStock_141505206.5539fd4814af3ca73730.mov",
+    "static/media/redditVid.mov": "/port/static/media/redditVid.cf9d9b2cb6f784466e84.mov",
+    "static/media/kkVid.mov": "/port/static/media/kkVid.1c1152e398ad83c13ee0.mov",
+    "static/media/cryptoVid.mov": "/port/static/media/cryptoVid.d8caa234c03eb2da1b7c.mov",
+    "static/media/adocVid.mov": "/port/static/media/adocVid.05a07e3166997f7528d7.mov",
+    "static/media/colorVid.mov": "/port/static/media/colorVid.0e8d9ed2de4688e47462.mov",
+    "static/media/kkvid.mp4": "/port/static/media/kkvid.b7b7607bd520d688f60b.mp4",
+    "static/media/rick.png": "/port/static/media/rick.bdf3b64c1755893a3be0.png",
+    "static/media/admin.png": "/port/static/media/admin.0b82a71f1f59640fbbe1.png",
+    "static/media/reddit.png": "/port/static/media/reddit.2e4e61d3c37fc8a05c32.png",
+    "static/media/color.png": "/port/static/media/color.8f40d3abd00e9bea6574.png",
+    "static/media/crypto-site.png": "/port/static/media/crypto-site.6bf96a968589ab663221.png",
+    "static/media/ss.png": "/port/static/media/ss.491b539042761ae14cd1.png",
+    "static/media/image.png": "/port/static/media/image.5cdaf2dfe1930c024329.png",
+    "static/media/coding-pic.png": "/port/static/media/coding-pic.b20f5b3f8d328bc7fa3f.png",
     "index.html": "/port/index.html",
-    "main.073c9b0a.css.map": "/port/static/css/main.073c9b0a.css.map",
-    "main.70b9b1cd.js.map": "/port/static/js/main.70b9b1cd.js.map",
-    "787.26095953.chunk.js.map": "/port/static/js/787.26095953.chunk.js.map"
+    "main.ae3be833.css.map": "/port/static/css/main.ae3be833.css.map",
+    "main.613f15fc.js.map": "/port/static/js/main.613f15fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.70b9b1cd.js"
+    "static/css/main.ae3be833.css",
+    "static/js/main.613f15fc.js"
   ]
 }
