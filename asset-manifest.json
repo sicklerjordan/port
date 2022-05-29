@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/port/static/css/main.ae3be833.css",
-    "main.js": "/port/static/js/main.613f15fc.js",
+    "main.js": "/port/static/js/main.dcbfb7af.js",
     "static/media/AdobeStock_141505206.mov": "/port/static/media/AdobeStock_141505206.5539fd4814af3ca73730.mov",
     "static/media/redditVid.mov": "/port/static/media/redditVid.cf9d9b2cb6f784466e84.mov",
     "static/media/kkVid.mov": "/port/static/media/kkVid.1c1152e398ad83c13ee0.mov",
@@ -18,11 +18,12 @@
     "static/media/image.png": "/port/static/media/image.5cdaf2dfe1930c024329.png",
     "static/media/coding-pic.png": "/port/static/media/coding-pic.b20f5b3f8d328bc7fa3f.png",
     "index.html": "/port/index.html",
+    "static/media/rickVid.mov": "/port/static/media/rickVid.fc409d874e50e79e5239.mov",
     "main.ae3be833.css.map": "/port/static/css/main.ae3be833.css.map",
-    "main.613f15fc.js.map": "/port/static/js/main.613f15fc.js.map"
+    "main.dcbfb7af.js.map": "/port/static/js/main.dcbfb7af.js.map"
   },
   "entrypoints": [
     "static/css/main.ae3be833.css",
-    "static/js/main.613f15fc.js"
+    "static/js/main.dcbfb7af.js"
   ]
 }
