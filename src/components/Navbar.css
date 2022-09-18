@@ -12,6 +12,9 @@
     cursor: pointer;
     transition: .8s;
 }
+.icon-flex{
+    display: flex;
+}
 
 .container a {
     color: var(--text);
@@ -37,6 +40,8 @@
     position: fixed;
     border-radius: 10px;
     z-index: 22;
+    align-items: center;
+    overflow: scroll;
 }
 .current-job {
     color: #d7d7db;
@@ -60,7 +65,6 @@
     cursor: pointer;
     padding-left: 20px;
     color: purple;
-    border-top: 1px solid grey;
     padding-top: 15px;
 }
 
@@ -197,4 +201,40 @@
         font-size: 1.2rem;
     }
     
+}
+
+@media (max-width: 550px){
+    .sideBar-container{
+        width: 290px;
+        text-align: center;
+        margin-top: 50px;
+        position: relative; 
+        margin-left: 10%;
+        height: 550px;
+    }
+    .colone{
+        z-index: 9999;
+    }
+}
+.side-icon{
+    color: #fff;
+    font-size: 30px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.side-icon:hover{
+color: var(--secondary);
+}
+.sideContainer{
+    display: flex;
+    margin-top: -20px
+}
+
+.side-bio{
+color: var(--secondary);
+padding-left: 10%;
+padding-right: 10%;
+margin-top: 30px;
+text-align: center;
 }
